@@ -10,7 +10,7 @@ List of my contributions to BabylonJS since v 2.1
 - Parametric shape dynamic morphing
 - `options` parameter for all mesh type in the class`MeshBuilder`
 - Sphere, tube, lathe, etc mesh arc and slice
-- Cylider mesh arc
+- Cylinder mesh arc
 - `GroundMesh.getNormalsAtCoordinates()`
 - `sideOrientation` for all meshes
 - `frontUV` and `backUV` for all meshes
