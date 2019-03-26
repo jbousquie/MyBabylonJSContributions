@@ -8,7 +8,7 @@ List of my contributions to BabylonJS since v 2.1
 - Path3D
 - Per face UVs and colors for many mesh types
 - Parametric shape dynamic morphing
-- `options` parameter for all mesh type in the class`MeshBuilder`
+- `options` parameter for all mesh types in the class`MeshBuilder`
 - Sphere, tube, lathe, etc mesh arc and slice
 - Cylinder mesh arc
 - `GroundMesh.getNormalsAtCoordinates()`
