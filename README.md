@@ -42,4 +42,4 @@ List of my contributions to BabylonJS since v 2.1
 - Dynamic Terrain
 
 ## API Documentation
-Most of all the public class API documentation missing comments between v2.1 and v3.0
+Most of all the public class API documentation missing comments between v2.1 and v3.1
