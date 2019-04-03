@@ -15,6 +15,7 @@ List of my contributions to BabylonJS since v 2.1
 - `sideOrientation` for all meshes
 - `frontUV` and `backUV` for all meshes
 - `colorFilter` for height maps
+- Frustum culling strategies 
 
 
 ## Mesh types
